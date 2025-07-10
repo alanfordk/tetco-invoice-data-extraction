@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# PyCharm project settings
+.idea/
+
+# VSCode settings (if you ever open in VSCode)
+.vscode/
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Output files
+*.xlsx
+*.xls
+*.csv
+*.log
+
+# PDFs and temporary files
+*.pdf
+*.tmp
+~$*
+
+# Tika temp files
+tika-server.jar
+tika.log
+tika-temp/
+
+# Ignore test results or debug outputs
+output/

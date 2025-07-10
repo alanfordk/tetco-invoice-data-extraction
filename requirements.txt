@@ -1,0 +1,7 @@
+PyMuPDF
+tika
+python-dateutil
+openpyxl
+six
+pandas
+python-docx
